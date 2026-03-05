@@ -103,7 +103,7 @@ Relacionamentos utilizados:
 
 Aqui você mostra um exemplo de dados reais do sistema, ou seja, como as entidades se relacionam na prática.
 
-![Diagrama de Instâncias](images/domain-instance.png)
+![Diagrama de Instâncias](images/domain-istance.png)
 
 # 💾 Banco de Dados
 
