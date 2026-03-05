@@ -1,7 +1,7 @@
 # 🛒 API REST - Sistema de Pedidos
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-4.x-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -95,8 +95,15 @@ Relacionamentos utilizados:
 - ManyToOne
 - ManyToMany
 - OneToOne
-
 ---
+
+![Diagrama de Classes](images/domain-model.png)
+
+🔗 Instância do Modelo
+
+Aqui você mostra um exemplo de dados reais do sistema, ou seja, como as entidades se relacionam na prática.
+
+![Diagrama de Instâncias](images/domain-instance.png)
 
 # 💾 Banco de Dados
 
