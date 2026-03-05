@@ -27,18 +27,21 @@ O projeto utiliza **Spring Boot**, **JPA/Hibernate** e banco de dados **H2 em me
 
 O projeto segue o padrão de **arquitetura em camadas**, separando responsabilidades dentro da aplicação.
 
+## Estrutura do Projeto
+
+```
 src/main/java/com/educandoweb/course
 │
 ├── config
-│ └── TestConfig
+│   └── TestConfig
 │
 ├── entities
-│ ├── User
-│ ├── Order
-│ ├── Product
-│ ├── Category
-│ ├── OrderItem
-│ └── Payment
+│   ├── User
+│   ├── Order
+│   ├── Product
+│   ├── Category
+│   ├── OrderItem
+│   └── Payment
 │
 ├── repositories
 │
@@ -46,7 +49,9 @@ src/main/java/com/educandoweb/course
 │
 ├── resources
 │
-└── resources/exceptions
+└── resources
+    └── exceptions
+```
 
 
 ### Camadas
