@@ -95,8 +95,15 @@ Relacionamentos utilizados:
 - ManyToOne
 - ManyToMany
 - OneToOne
-
 ---
+
+![Diagrama de Classes](images/domain-model.png)
+
+🔗 Instância do Modelo
+
+Aqui você mostra um exemplo de dados reais do sistema, ou seja, como as entidades se relacionam na prática.
+
+![Diagrama de Instâncias](images/domain-instance.png)
 
 # 💾 Banco de Dados
 
